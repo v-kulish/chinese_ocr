@@ -1,0 +1,12 @@
+# Core scientific stack
+numpy>=1.23
+pillow>=9.0
+matplotlib>=3.6
+
+# Deep learning
+torch
+torchvision
+torchaudio
+
+# Utilities
+tqdm>=4.65
